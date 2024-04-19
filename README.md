@@ -1,5 +1,5 @@
 # my-arch-stack
-The software stack for my arch linux setup
+The (tentative) software stack for my arch linux setup
 
 ## Stack
 * **Display Server**: [Xorg](https://wiki.archlinux.org/title/Xorg)
